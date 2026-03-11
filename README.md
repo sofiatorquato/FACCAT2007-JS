@@ -25,4 +25,5 @@ https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/sofiatorquato/FACCAT2007-JS.git
+
